@@ -9,7 +9,7 @@ let handler = async (m, { conn, text, participants }) => {
   handler.help = ['tagall']
   handler.tags = ['group']
 
-  handler.admin = true
+  handler.admin = false
   handler.group = true
   
   export default handler
