@@ -1,5 +1,5 @@
 {
-    "name": "YOUR NAME",
+    "name": "PrinceHacker",
     "version": "7.0.0",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -16,7 +16,7 @@
     },
     "homepage": "https://github.com/zim-bot",
     "author": {
-        "name": "YOUR NAME"
+        "name": "PrinceHacker"
     },
     "repository": {
         "type": "git",
